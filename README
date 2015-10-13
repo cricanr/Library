@@ -1,7 +1,5 @@
-This is your new Play application
+eBook library application
 =================================
-
-This file will be packaged with your application, when using `activator dist`.
 
 Good reads api documentation: https://www.goodreads.com/api
 
